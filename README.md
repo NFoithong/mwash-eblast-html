@@ -1,2 +1,2 @@
 # mwash-eblast-html
-Create email blast landing page
+Create email blast landing page for Maserati of Washington
